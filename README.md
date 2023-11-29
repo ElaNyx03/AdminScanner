@@ -66,7 +66,7 @@ Strumento per trovare le pagine amministrative dei siti web
 
     python3 scan.py
 
----
+<img width="200%" src="hr.gif" />
 <div align="center">
   
 ### Disclaimer legale 
