@@ -22,7 +22,7 @@ extimate = []
 def banner():	# banner
 	print(yellow)
 	## logo
-	print(f"""  {blue}
+	print(f"""  {green}
                                            
                               .\                                  
                         .\   / _\   .\                                       
