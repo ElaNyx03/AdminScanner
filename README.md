@@ -1,7 +1,12 @@
 <div align="center">
+<img width="50%" src="1701192416677.png" />
+</div>
+
+<div align="center">
  <img src="https://c.tenor.com/Oc72kk6SFJIAAAAC/devil-smile.gif" width="60px"> ✰ 𝔻𝔼𝕧𝕚𝕃-𝔸𝕕𝕞𝕚𝕟𝕊𝕔𝕒𝕟𝕟𝕖𝕣 ✰🕵️‍<br>
 Strumento per trovare le pagine amministrative dei siti web 
 </div>
+
 <img width="200%" src="hr.gif" />
 
 
@@ -24,8 +29,8 @@ Strumento per trovare le pagine amministrative dei siti web
   <img src="photo_2021-08-10_18-37-44.jpg" alt="Screenshot Devil-Admin_Scanner_" width="400">
 </div>
 
+<img width="200%" src="hr.gif" />
 
----
 
 ###  <img src="kali.gif" width="50px">⊵ 𝕀𝕟𝕤𝕥𝕒𝕝𝕝𝕒𝕫𝕚𝕠𝕟𝕖 𝕤𝕦 (𝕃𝕚𝕟𝕦𝕩/𝕡𝕔)
 
