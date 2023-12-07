@@ -40,7 +40,7 @@ Strumento per trovare le pagine amministrative dei siti web
 
     sudo apt install git
 
-    git clone https://github.com/IRYNA0308/Devil-Admin_Scanner.git
+    git clone  https://github.com/ElaNyx03/AdminScanner.git
 
     cd Devil-Admin_Scanner
 
@@ -58,7 +58,7 @@ Strumento per trovare le pagine amministrative dei siti web
 
     pkg install git
 
-    git clone https://github.com/IRYNA0308/Devil-Admin_Scanner.git
+    git clone https://github.com/ElaNyx03/AdminScanner.git
 
     cd Devil-Admin_Scanner
 
