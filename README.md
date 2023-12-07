@@ -74,10 +74,14 @@ Strumento per trovare le pagine amministrative dei siti web
 ✎ L'uso di questo strumento per attaccare gli obiettivi senza il consenso reciproco è illegale. E' responsabilità dell'utente finale obbedire a tutte le leggi locali, statali e federali applicabili. Gli sviluppatori non si assumono alcuna responsabilità e non sono responsabili per qualsiasi uso improprio o danno causato da questo programma...꙳ Grazie e buon uso ꙳...
 
 
+
+
 <div align="center">
-<img align="center" title="Github" alt="Github" width="200px" src="1701192416682.png" />𝓡𝓮𝓪𝓭𝓶𝓮 𝓑𝔂 :::〘 ElaNyx03 〙:::  <img src="pnghut_github-software-repository-angularjs-pointer-male-github.png" width="70px"> 
+
+<img align="center" title="Github" alt="Github" width="200px" src="1701192416682.png" /> 
+<h5>𝓡𝓮𝓪𝓭𝓶𝓮 𝓑𝔂 ::: ElaNyx :::</h5>
+<img src="pnghut_github-software-repository-angularjs-pointer-male-github.png" width="70px">  
+
 </div>
-
-
 
 
